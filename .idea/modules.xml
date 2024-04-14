@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayStaticMethodsDemo/ArrayStaticMethodsDemo.iml" filepath="$PROJECT_DIR$/ArrayStaticMethodsDemo/ArrayStaticMethodsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysStaticMethodsDemo.iml" filepath="$PROJECT_DIR$/ArraysStaticMethodsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temperature/Temperature.iml" filepath="$PROJECT_DIR$/Temperature/Temperature.iml" />
+    </modules>
+  </component>
+</project>
